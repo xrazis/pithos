@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Document</title>
+
+  <link rel="stylesheet" href="index.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
+</head>
+
+<body>
+  <div class="timer">
+    <div class="inner">
+      <svg height="400" width="400">
+        <circle r="190" cx="200" cy="200" transform="rotate(-90 200 200)"></circle>
+      </svg>
+
+      <input id="duration" value="30" />
+      <div class="buttons">
+        <button id="start"><i class="fas fa-play"></i></button>
+        <button id="pause"><i class="fas fa-pause"></i></button>
+      </div>
+    </div>
+  </div>
+  <script src="timer.js"></script>
+  <script src="index.js"></script>
+</body>
+
+</html>
