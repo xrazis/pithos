@@ -1,0 +1,9 @@
+.CartItem {
+  margin-top: 1em;
+  display: flex;
+  justify-content: space-between;
+}
+
+.CartItem div {
+  width: 20%;
+}
