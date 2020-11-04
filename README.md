@@ -10,5 +10,6 @@
  - **nodels** => Implementation of ls command of Unix with Node.js.
  - **secret-message** => Send a message with the URL.
  - **sort** => Sorting with TS.
+ - **stats** => Analysis and output with inheritance and composition.
  - **tme** => Simple test framework.
  - **watch-it** => Nodemon clone.
