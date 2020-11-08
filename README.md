@@ -1,4 +1,6 @@
-## Project-bucket map 📍
+# Project-bucket map 📍
+
+*A repo bucket for some small projects.*
 
  - **ecomm** => Simple eCommerce app. Login for admin and cart for users. 
  - **js-timer** => Circular timer.
@@ -9,8 +11,9 @@
  - **react-cart** => Shopping cart implemented in react.
  - **nodels** => Implementation of ls command of Unix with Node.js.
  - **secret-message** => Send a message with the URL.
+ - **server** => Use of decorators with express.
  - **sort** => Sorting with TS.
  - **stats** => Analysis and output with inheritance and composition.
  - **tme** => Simple test framework.
  - **watch-it** => Nodemon clone.
- - **wweb-fw** => Primal framework.
+ - **web-fw** => Primal framework.
