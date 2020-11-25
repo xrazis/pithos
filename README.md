@@ -2,6 +2,7 @@
 
 *A repo bucket for some small projects.*
 
+ - **cards** => Basic concepts of go.
  - **ecomm** => Simple eCommerce app. Login for admin and cart for users. 
  - **js-timer** => Circular timer.
  - **linear-stepper** => Stepper form.
