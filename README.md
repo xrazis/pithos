@@ -15,6 +15,7 @@
  - **server** => Use of decorators with express.
  - **sort** => Sorting with TS.
  - **stats** => Analysis and output with inheritance and composition.
+ - **status-checker** => Check website status.
  - **tme** => Simple test framework.
  - **watch-it** => Nodemon clone.
  - **web-fw** => Primal framework.
