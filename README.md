@@ -26,5 +26,6 @@
 
 - **cards** => Basic concepts of go.
 - **status-checker** => Check website status.
+- **status-bot** => Check website status with a simple telegram bot.
 - **web-fw** => Primal framework.
 
