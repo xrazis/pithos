@@ -4,6 +4,7 @@
 
 `Javascript`
 
+- **constructor-inter** => Basic rest API with signup and edit form that stores user details in MYSQL.
 - **ecomm** => Simple eCommerce app. Login for admin and cart for users.
 - **js-timer** => Circular timer.
 - **linear-stepper** => Stepper form.
