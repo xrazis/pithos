@@ -1,4 +1,4 @@
-# Map 📍
+# Repo Map 📍
 
 *A repo bucket for some small projects.*
 
@@ -22,11 +22,11 @@
 - **server** => Use of decorators with express.
 - **sort** => Sorting with TS.
 - **stats** => Analysis and output with inheritance and composition.
+- **web-fw** => Primal framework.
 
 `Go`
 
 - **cards** => Basic concepts of go.
 - **status-checker** => Check website status.
 - **status-bot** => Check website status with a simple telegram bot.
-- **web-fw** => Primal framework.
 
