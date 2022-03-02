@@ -5,6 +5,7 @@
 `/go`
 
 - `/cards` => Basic concepts of go.
+- `/marvin` =>  Discord bot built on discordgo .
 - `/status-checker` => Check website status.
 - `/status-bot` => Check website status with a simple telegram bot.
 
